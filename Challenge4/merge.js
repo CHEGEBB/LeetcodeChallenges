@@ -1,3 +1,4 @@
+//First, we define a ListNode class to represent the nodes of our linked lists
 class ListNode {
     constructor(val = 0, next = null) {
         this.val = val;
